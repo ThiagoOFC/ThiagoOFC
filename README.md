@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🏡 Bem-vindo ao Meu Repositório!
 
-<!--
-**ThiagoOFC/ThiagoOFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é meu repositório pessoal no GitHub. Aqui você encontra:
 
-Here are some ideas to get you started:
+- 🚀 Projetos e experimentos
+- 📄 Documentação
+- 💡 Ideias e estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia e adoro criar projetos incríveis!
+
+## 🌐 Links
+- [Meu Site](https://thiagoofc.github.io/cv)
+- [LinkedIn](https://www.linkedin.com/in/thiago-oliveira-771006235)
