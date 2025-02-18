@@ -7,11 +7,12 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em **backend, cloud e inf
 ## 📢 Social
 Me acompanhe nas redes sociais!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-771006235)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoOFC)
+<!--
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)
 [![Linktree](https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/seu-usuario)
-
+-->
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -59,7 +60,7 @@ Me acompanhe nas redes sociais!
   <summary><h3>Certificações</h3></summary>
   <p>
     <a href="https://www.credly.com/badges/sua-certificacao"><img alt="AWS Certified" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px"/></a>
-    <a href="https://www.credly.com/badges/sua-certificacao"><img alt="Linux Foundation Certified" src="https://images.credly.com/size/340x340/images/9fb38928-c145-4952-9bab-7cb81082ff4f/image.png" width="100px"/></a>
+<!--     <a href="https://www.credly.com/badges/sua-certificacao"><img alt="Linux Foundation Certified" src="https://images.credly.com/size/340x340/images/9fb38928-c145-4952-9bab-7cb81082ff4f/image.png" width="100px"/></a> -->
   </p>
 </details>
 
