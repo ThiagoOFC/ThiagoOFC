@@ -1,4 +1,4 @@
-# 🏡 Bem-vindo ao Meu Repositório!
+# 🏡 Bem-vindo ao Meu Github!
 
 Este é meu repositório pessoal no GitHub. Aqui você encontra:
 
